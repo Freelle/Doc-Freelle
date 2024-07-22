@@ -78,7 +78,10 @@ Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa s
 
 # 3. Descrição da proposta
 
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do desejado e permita sua continuidade.
+Estamos criando o site "Freelle" com o objetivo de solucionar um problema significativo no mercado de freelancing: a dificuldade que muitos freelancers enfrentam para encontrar empregos. Sabemos que, apesar de possuírem habilidades valiosas e experiências diversas, muitos profissionais independentes não conseguem se conectar com oportunidades de trabalho de forma eficaz. O Freelle será uma plataforma dedicada a facilitar essa conexão, oferecendo um espaço onde freelancers e empregadores possam se encontrar, interagir e colaborar, promovendo um ambiente de trabalho mais eficiente e produtivo. O Freelle terá dois níveis usuário de sistema, as empresas ofertando as vagas de emprego, e os funcionários interessados. No usuário das empresas será possível cadastrar as vagas de emprego disponíveis, e no usuário dos funcionários será possível cadastrar as informações pessoais acompanhado de seu currículo. O software fornecerá opções de cadastro de login para tipo de usuário de empresa ou funcionários, podendo buscar o gênero de emprego em que o usuário esteja interessado, tanto para cadastrar vagas, tanto para cadastrar seu currículo.
+
+
+<!-- Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do desejado e permita sua continuidade.
 
 **Alguns pontos importantes a se destacar são:**
 
@@ -89,7 +92,7 @@ Após entender o problema, proponha uma solução que será útil nos aspectos d
 -   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre eles na descrição da proposta.
 
 Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo. -->
 
 # 4. Modelagem de Dados
 
